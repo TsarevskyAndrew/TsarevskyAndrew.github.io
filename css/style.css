@@ -290,6 +290,9 @@ footer .sub-title {
 main {
     position: relative;
 }
+
+#but { text-align: center; }
+
 .v-menu {
     position: absolute;
     top: 0;
